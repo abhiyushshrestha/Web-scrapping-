@@ -1,0 +1,46 @@
+About Us
+
+            MPercept Technology is the emerging data science and artificial intelligence company of nepal. We provide AI solutions to various business, organization and individuals. Partnering with the best of strain technologies, we employ best practices developed. We are extremely committed to deliver quality service, sales and support to assist our clients to achieve the maximum benefit from their investment.
+          Areas We Cover
+Machine Learning
+Chatbot Development
+Computer Vision
+Internet of Things (IoT)
+Big Data & Cloud Computing
+Natural Language Processing (NLP)
+Data Analytics
+Data Visualization
+Our Services
+
+AI & ML System Development
+Artificial Intelligence and Machine Learning are the future of software development. We have a different solution for any aspects of developing, testing, optimizing, and deploying production-ready machine learning and artificial intelligence-based solutions. Mpercept Technology utilizes machine learning and deep learning in self-taught enterprise solutions. 
+
+Web Application Development
+We craft every piece of imaginable web experience with pixel perfect UI/UX to develop Web Applications. High-end web architecture leveraged with flexible design, API Development, Secure Backend and scalability constructs an Enterprise Web Application. 
+
+Automation System and Development for ICT
+Designed to allow third-party automation products to communicate directly with Protege controllers, the protocol enables you to control doors, areas, outputs, inputs, and variables, anywhere in the system, and to monitor the status of these items then report back if the status of the item changes.Programming language independent, it simply defines how a third-party system will communicate, and allows you to control your security system, building access and lighting from a single interface device without the need for overly complicated software. When ease of use is paramount, a simple press, tap or swipe can arm and disarm areas, check the state of the system, and lock or unlock doors.
+
+
+IT Training & Development Program
+We provide trainings and development program for corporates and business. These firms operate by implementing development protocol and facilitating training courses, either on-site or virtually. We offer both general IT and soft skill development, as well as industry-specific knowledge. We provide through e-Learning software to supplement programs or as an alternative to these services.
+
+
+
+Founders
+
+Mr. Ashis Parajuli
+Mr. Nishan Pantha
+Mr. Raju Thapa
+
+Portfolio
+
+We provided AI solutions to our valuable clients.Mpercept
+Mpercept Technology's focus is to provide a long term I.T. partnership with our clients. These long-term relationships allow us to understand our clients’ unique needs and requirements and provide a high level of service. We believe we can provide cost-effective service & support allowing you to get the best from your I.T.
+investment.
+
+Location
+Kupondole-10
+
+Email
+info@mpercept.com
